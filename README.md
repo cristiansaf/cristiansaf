@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 Sobre mim
-
+Estudante de Engenharia de Software na FIAP.
 Sou desenvolvedor focado em Front-End, criando interfaces modernas, responsivas e funcionais.  
 Utilizo ferramentas modernas, incluindo IA, como apoio no desenvolvimento e aprendizado.  
 Atualmente também estudo Python para fortalecer minha lógica e ampliar minhas habilidades.
