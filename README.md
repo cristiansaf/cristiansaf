@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Cristian</h1>
+<h1 align="center">🚀 Cristian Schmidt</h1>
 
 <p align="center">
 💻 Desenvolvedor Front-End <br>
